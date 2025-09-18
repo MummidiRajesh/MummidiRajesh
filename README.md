@@ -1,8 +1,8 @@
 # 👋 Hello World! I'm Mummidi Rajesh
 
-![Profile Views](https://komarev.com/ghpvc/?username=MdSharieff-081&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/MdSharieff-081?label=Followers&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/MdSharieff-081?affiliations=OWNER%2CCOLLABORATOR&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=MummidiRajesh&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/MummidiRajesh?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/MummidiRajesh?affiliations=OWNER%2CCOLLABORATOR&style=flat)
 
 Welcome to my GitHub! I'm a passionate *Full Stack Web Developer* and a final year B.Tech CSE student at *Pragati Engineering College*. I thrive on building meaningful, scalable web applications and solving real-world problems through code.
 
