@@ -1,4 +1,4 @@
-<!--# Hi there 👋🏻 I'm Rajesh (MummidiRajesh)
+# Hi there 👋🏻 I'm Rajesh (MummidiRajesh)
 
 ### 🔭 What I’m doing now
 - Working on **[Your current project]** – brief description about what the project does, technologies used, and what problem it solves.
@@ -33,20 +33,4 @@ Here are some of my repositories and what they represent:
 
 ---
 
-**Thank you** for visiting my profile. Feel free to connect or check out any of my repos 🙂  -->
-
-
-
-**MummidiRajesh/MummidiRajesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+**Thank you** for visiting my profile. Feel free to connect or check out any of my repos 🙂  
