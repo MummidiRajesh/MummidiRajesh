@@ -1,36 +1,106 @@
-# Hi there 👋🏻 I'm Rajesh (MummidiRajesh)
+# 👋 Hello World! I'm Mohammad Chisty Madeena Sharieff
 
-### 🔭 What I’m doing now
-- Working on **[Your current project]** – brief description about what the project does, technologies used, and what problem it solves.
-- Exploring _(or learning)_ _[something new]_ (e.g. React, Machine Learning, DevOps, etc.)
+![Profile Views](https://komarev.com/ghpvc/?username=MdSharieff-081&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/MdSharieff-081?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/MdSharieff-081?affiliations=OWNER%2CCOLLABORATOR&style=flat)
 
-### 🌱 I’m currently learning
-- [Skill / Technology 1]  
-- [Skill / Technology 2]  
-- [Skill / Technology 3]
+Welcome to my GitHub! I'm a passionate *Full Stack Web Developer* and a final year B.Tech CSE student at *Pragati Engineering College*. I thrive on building meaningful, scalable web applications and solving real-world problems through code.
 
-### 💼 Past / Ongoing Projects
-Here are some of my repositories and what they represent:
-
-| Project | Tech Stack | Description |
-|---|---|---|
-| **Rajesh** | Java | [Your description of this project: e.g. “Core utilities / experiments in Java”] |
-| **green-genie-frontend** | JavaScript | Forked project – frontend work on green genie dashboard / UI components |
-| **Renewable-Energy-Awareness-Chatbot-Backend** | Python | Backend APIs / logic for chatbot that raises awareness about renewable energy |
-
-### ⚙️ Skills & Tools
-- Languages: Java, Python, JavaScript, …  
-- Frameworks / Tools: [list tools like Node.js, React, Spring, whatever you use]  
-- Databases / Other: [e.g. MySQL, MongoDB, Docker, etc.]  
-
-### 📫 How to reach me
-- GitHub: [github.com/MummidiRajesh](https://github.com/MummidiRajesh)  
-- Email: your-email@example.com _(if you want to share)_  
-
-### 📝 Fun facts
-- I’m interested in [something personal: e.g. renewable energy, AI, open-source]  
-- Outside coding, I enjoy [hobby or interest]  
+Whether it's designing elegant UIs, working with backend logic, or sharpening my DSA skills — I'm always learning, building, and growing.
 
 ---
 
-**Thank you** for visiting my profile. Feel free to connect or check out any of my repos 🙂  
+## 🚀 About Me
+
+- 🎓 Final Year Computer Science Engineering student at Pragati Engineering College  
+- 💻 Strong in *Full Stack Development, **JavaScript, **Java, and **Data Structures*  
+- 🧑‍💼 Completed Industrial Training at *Department of Technical Education, Andhra Pradesh*  
+- 🌐 Built multiple dynamic web projects combining AI, semantic search, and user-first interfaces  
+- ⚒ Focused on writing clean, modular code and building meaningful tech products  
+
+> *"Stay curious, stay building. Every great developer was once a beginner who never gave up."*
+
+---
+
+## 🧰 Tech Toolbox
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge&logo=ejs&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)
+
+### ⚙ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F37025?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🌱 *Green Genie* | A smart eco-awareness chatbot that helps users learn about renewable energy through semantic search and vector-based responses. | React.js, Django, Vite, FAISS, LangChain |
+| 📚 *AI Teacher Assistant* | An automated grading tool that reads uploaded assignments, analyzes answers using AI, and gives intelligent feedback. | React.js, Node.js, Express.js, PDF Parser, Gemini API |
+
+---
+
+## 📈 GitHub Stats
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdSharieff-081&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdSharieff-081&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MdSharieff-081&theme=radical&hide_border=true)
+
+
+
+
+
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sharieff-mohammad/)
+- 🔗 [LeetCode](https://leetcode.com/u/Sharieff_Md/)
+- 📧 *mdmadeenasharieff@gmail.com*
+
+---
+
+Thanks for stopping by! Feel free to ⭐ a project or connect — always happy to collaborate and learn with fellow developers.
+
+
+<!--
+*MdSharieff-081/MdSharieff-081* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
