@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Mohammad Chisty Madeena Sharieff
+# 👋 Hello World! I'm Mummidi Rajesh
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MdSharieff-081&label=Profile%20Views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/MdSharieff-081?label=Followers&style=flat)
@@ -13,8 +13,8 @@ Whether it's designing elegant UIs, working with backend logic, or sharpening my
 ## 🚀 About Me
 
 - 🎓 Final Year Computer Science Engineering student at Pragati Engineering College  
-- 💻 Strong in *Full Stack Development, **JavaScript, **Java, and **Data Structures*  
-- 🧑‍💼 Completed Industrial Training at *Department of Technical Education, Andhra Pradesh*  
+- 💻 Strong in *Full Stack Development, **JavaScript, **Java,, **Python and **Data Structures*  
+- 🧑‍💼 Completed Internship at 1M1B as a Green Intern*  
 - 🌐 Built multiple dynamic web projects combining AI, semantic search, and user-first interfaces  
 - ⚒ Focused on writing clean, modular code and building meaningful tech products  
 
@@ -46,7 +46,6 @@ Whether it's designing elegant UIs, working with backend logic, or sharpening my
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-F37025?style=for-the-badge&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -59,7 +58,7 @@ Whether it's designing elegant UIs, working with backend logic, or sharpening my
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🌱 *Green Genie* | A smart eco-awareness chatbot that helps users learn about renewable energy through semantic search and vector-based responses. | React.js, Django, Vite, FAISS, LangChain |
-| 📚 *AI Teacher Assistant* | An automated grading tool that reads uploaded assignments, analyzes answers using AI, and gives intelligent feedback. | React.js, Node.js, Express.js, PDF Parser, Gemini API |
+
 
 ---
 
@@ -81,9 +80,9 @@ Whether it's designing elegant UIs, working with backend logic, or sharpening my
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sharieff-mohammad/)
-- 🔗 [LeetCode](https://leetcode.com/u/Sharieff_Md/)
-- 📧 *mdmadeenasharieff@gmail.com*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-mummidi-bb2276259/)
+- 🔗 [LeetCode](https://leetcode.com/u/RajeshMummidi/)
+- 📧 *rajeshmummidi9999@gmail.com*
 
 ---
 
